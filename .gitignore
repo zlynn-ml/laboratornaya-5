@@ -1,0 +1,17 @@
+# Скомпилированные исполняемые файлы (бинарники)
+*.exe
+*.out
+*.app
+
+# Объектные и временные файлы компиляции
+*.o
+*.obj
+
+# Временные папки сред разработки (Visual Studio, VS Code, CLion)
+.vscode/
+.idea/
+x64/
+Debug/
+Release/
+cmake-build-debug/
+cmake-build-release/
